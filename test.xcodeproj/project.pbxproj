@@ -38,6 +38,7 @@
 		CE36EF992E3022DF002173A8 /* ActivityDetailSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE36EF982E3022DE002173A8 /* ActivityDetailSheet.swift */; };
 		CE3F62D22E2871BC00B18993 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE3F62D02E2871BC00B18993 /* Assets.xcassets */; };
 		CE3F62D52E28726700B18993 /* TrackingApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3F62D42E28726200B18993 /* TrackingApp.swift */; };
+		CE42E15B2E3FC8430031773F /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = CE42E15A2E3FC83B0031773F /* .gitignore */; };
 		CEAE5B9B2E30410200B68820 /* RegistrationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEAE5B9A2E303FD600B68820 /* RegistrationUITests.swift */; };
 		CEAE5B9C2E30455000B68820 /* MainViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEAE5B982E303D9700B68820 /* MainViewModelTests.swift */; };
 		CEAED5572E30369300BB607B /* Luckyfield 400.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CEAED5562E30369300BB607B /* Luckyfield 400.ttf */; };
@@ -90,6 +91,7 @@
 		CE3F62E72E28736300B18993 /* FirebaseServise.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirebaseServise.swift; sourceTree = "<group>"; };
 		CE3F62E82E28736C00B18993 /* AuthService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthService.swift; sourceTree = "<group>"; };
 		CE3F62EB2E28739700B18993 /* NotificationService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationService.swift; sourceTree = "<group>"; };
+		CE42E15A2E3FC83B0031773F /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		CEAE5B982E303D9700B68820 /* MainViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewModelTests.swift; sourceTree = "<group>"; };
 		CEAE5B9A2E303FD600B68820 /* RegistrationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistrationUITests.swift; sourceTree = "<group>"; };
 		CEAED5562E30369300BB607B /* Luckyfield 400.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Luckyfield 400.ttf"; sourceTree = "<group>"; };
@@ -300,6 +302,7 @@
 		CEF3A0D42E1C558100DFBAA6 = {
 			isa = PBXGroup;
 			children = (
+				CE42E15A2E3FC83B0031773F /* .gitignore */,
 				CE3F62C92E2871AD00B18993 /* App */,
 				CE261EF72E2C38AB003E364A /* Navigation */,
 				CE3F62D32E2871BE00B18993 /* Models */,
@@ -445,6 +448,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE42E15B2E3FC8430031773F /* .gitignore in Resources */,
 				CE3F62D22E2871BC00B18993 /* Assets.xcassets in Resources */,
 				CEAED5572E30369300BB607B /* Luckyfield 400.ttf in Resources */,
 				CE261EE32E29D552003E364A /* GoogleService-Info.plist in Resources */,
